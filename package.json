@@ -1,0 +1,23 @@
+{
+  "name": "esm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yulia-Sm1999/ajs-homeworks-modules-esm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yulia-Sm1999/ajs-homeworks-modules-esm/issues"
+  },
+  "homepage": "https://github.com/Yulia-Sm1999/ajs-homeworks-modules-esm#readme",
+  "dependencies": {
+    "live-server": "^1.1.0"
+  }
+}
